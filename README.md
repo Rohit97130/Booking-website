@@ -95,4 +95,22 @@ npm run dev
 
 📸 Screenshots:-
 
+### Home Page
+![Home Page](./screenShorts/home.png)
+
+### Registration Page
+![Registration Page](./register/home.png)
+
+### Booking Page
+![Booking Page](./screenShorts/booking.png)
+
+### Payment Page
+![Payment Page](./screenShorts/Payment.png)
+
+### Seat-selection Page
+![Seat-selection Page](./screenShorts/seat-selection.png)
+
+### ticket Page
+![ticket Page](./screenShorts/ticket.png)
+
 
