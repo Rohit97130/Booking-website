@@ -99,7 +99,7 @@ npm run dev
 ![Home Page](./screenShorts/home.png.png)
 
 ### Registration Page
-![Registration Page](./register/home.png.png)
+![Registration Page](./screenShorts/register.png.png)
 
 ### Booking Page
 ![Booking Page](./screenShorts/booking.png.png)
@@ -112,6 +112,7 @@ npm run dev
 
 ### ticket Page
 ![ticket Page](./screenShorts/ticket.png.png)
+
 
 
 
